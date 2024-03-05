@@ -88,8 +88,8 @@ rm /content/refcocog.tar.gz
 * While the code associated with the paper is accessible, we decided not to pursue this avenue due to time constraints.
 
 <br>
-<img src="https://github.com/djiajunustc/TransVG/raw/main/docs/framework.jpg" alt="TransVG: End-to-End Visual Grounding with Transformers">
-<p>TransVG: End-to-End Visual Grounding with Transformers</p>
+<img align="center" src="https://github.com/djiajunustc/TransVG/raw/main/docs/framework.jpg" alt="TransVG: End-to-End Visual Grounding with Transformers">
+<p align="center">TransVG: End-to-End Visual Grounding with Transformers</p>
 
 
 ### 2. Enhancing Visual Grounding with Pseudo-Queries and Text-to-Text Similarity
