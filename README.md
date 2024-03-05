@@ -119,8 +119,6 @@ Here's a proposed pipeline that melds more brainstorming concepts with technical
 
 Our Thoughts on this approach: By generating pseudo-queries, the system has a more informed basis to compare with the original referring expressions, thereby potentially improving the accuracy and robustness of visual grounding tasks. Integrating these methodologies could pave the way for a more intelligent and context-aware visual grounding system.
 
-However, due to limited resources and time constraint we are not able to implement this strategy but based on research on this idea we're pretty sure that this approach may provide good results.
-
 
 ## References
 * [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
